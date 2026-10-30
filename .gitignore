@@ -1,0 +1,14 @@
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+
+# Blender backups
+*.blend1
