@@ -53,18 +53,21 @@ Add one row for each stakeholder.
 | --- | --- | --- | --- | --- | --- |
 | _Name_ | _Your answer here._ | _Your answer here._ | _Your answer here._ | _Level and short reason_ | _Level and short reason_ |
 
-**Summary of the user requirements: what are your expected outcomes?**
+**Summary of the user requirements: what are the expected outcomes and measurements?**
+
+_Note_: this is not related to the performance of the Digital Twin nor to the quality of your work. Think of what are the users expectations and what are the things they want to see in the Digital Twin.
 
 _Your answer here._
 
-**How will you measure your outcomes?**
+**How will you measure these outcomes?**
 
 Define a few SMART indicators. Each indicator must be Specific, Measurable, Achievable, Realistic and Timely.
 
-| Indicator | Specific | Measurable | Achievable | Realistic | Timely |
-| --- | --- | --- | --- | --- | --- |
-| _Indicator 1_ | _Your answer here._ | _Your answer here._ | _Your answer here._ | _Your answer here._ | _Your answer here._ |
-| _Indicator 2_ | _Your answer here._ | _Your answer here._ | _Your answer here._ | _Your answer here._ | _Your answer here._ |
+| Indicator name | Description | Unit of measurement | Frequency |
+| --- | --- | --- | --- |
+| _Example: Shaded sidewalks_ | _Sidewalk in shade at 15:00, measured with a 3D GIS shadow analysis._ | _% of sidewalk length_ | _Monthly_ |
+| _Indicator 1_ | _Your answer here._ | _Your answer here._ | _Your answer here._ |
+| _Indicator 2_ | _Your answer here._ | _Your answer here._ | _Your answer here._ |
 
 Add as many indicators as you need.
 

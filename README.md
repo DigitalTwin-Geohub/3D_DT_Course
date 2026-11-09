@@ -7,7 +7,7 @@
 ## How to use this repository
 
 1. Fork this repository to your own GitHub account, then clone your fork.
-2. Answer the midterm in [`midterm/ANSWERS.md`](midterm/ANSWERS.md) and the final assignment in [`final/ANSWERS.md`](final/ANSWERS.md). Replace every `_Your answer here._`.
+2. Answer the midterm in [`midterm/ANSWERS.md`](midterm/ANSWERS.md), the exercises in [`midterm/EXERCISES.md`](midterm/EXERCISES.md), and the final assignment in [`final/ANSWERS.md`](final/ANSWERS.md). Replace every `_Your answer here._`.
 3. Put your files in the folders below, and link or embed them in your answer sheet using relative paths.
 4. Commit and push your work regularly.
 5. To submit, hand in the link to your repository in Canvas. Check that the link opens without you being logged in, or give your lecturer access if your repository is private.
@@ -20,7 +20,10 @@
 ├── Instructions.md            Assignment instructions
 ├── midterm/
 │   ├── ANSWERS.md             Midterm answer sheet
+│   ├── EXERCISES.md           Exercises answer sheet (results and reflections)
 │   └── figures/               Flowchart, UI mockup and other images
+│       ├── track-a/           Exercise screenshots and output files for Track A
+│       └── track-b/           Exercise screenshots and output files for Track B
 └── final/
     ├── ANSWERS.md             Final assignment answer sheet
     ├── data/
