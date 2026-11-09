@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="900" height="420" fill="#ffffff" stroke="#8c959f"/>
+<rect x="0" y="0" width="900" height="30" fill="#24292f"/>
+<text x="14" y="20" font-size="12" fill="#ffffff">File   Edit   View   Repository   Branch   Help</text>
+<text x="886" y="20" text-anchor="end" font-size="12" fill="#ffffff">GitHub Desktop</text>
+<rect x="0" y="30" width="900" height="58" fill="#24292f"/>
+<line x1="300" y1="30" x2="300" y2="88" stroke="#57606a"/>
+<line x1="560" y1="30" x2="560" y2="88" stroke="#57606a"/>
+<text x="20" y="54" font-size="11" fill="#8c959f">Current repository</text>
+<text x="20" y="74" font-size="14" font-weight="600" fill="#ffffff">3D_DT_Course  ▾</text>
+<text x="320" y="54" font-size="11" fill="#8c959f">Current branch</text>
+<text x="320" y="74" font-size="14" font-weight="600" fill="#ffffff">main  ▾</text>
+<text x="580" y="54" font-size="11" fill="#8c959f">Push origin</text>
+<text x="580" y="74" font-size="14" font-weight="600" fill="#ffffff">↑ 1  Push origin</text>
+<text x="880" y="74" text-anchor="end" font-size="11" fill="#8c959f">Last fetched just now</text>
+<rect x="565" y="35" width="330" height="48" rx="8" fill="none" stroke="#ff8182" stroke-width="3"/>
+<circle cx="565" cy="35" r="11" fill="#cf222e"/><text x="565" y="40" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">3</text>
+<rect x="0" y="88" width="300" height="332" fill="#ffffff"/>
+<line x1="300" y1="88" x2="300" y2="420" stroke="#d0d7de"/>
+<text x="75" y="112" text-anchor="middle" font-size="13" font-weight="600" fill="#1f2328">Changes  2</text>
+<rect x="10" y="120" width="130" height="3" fill="#0969da"/>
+<text x="225" y="112" text-anchor="middle" font-size="13" fill="#57606a">History</text>
+<line x1="0" y1="123" x2="300" y2="123" stroke="#d0d7de"/>
+<g font-size="12" fill="#1f2328">
+<rect x="12" y="134" width="14" height="14" rx="3" fill="#0969da"/><path d="M15,141 L18,144 L23,137" fill="none" stroke="#fff" stroke-width="2"/>
+<text x="34" y="146">midterm/EXERCISES.md</text>
+<rect x="276" y="135" width="12" height="12" rx="2" fill="#bf8700"/>
+<rect x="12" y="160" width="14" height="14" rx="3" fill="#0969da"/><path d="M15,167 L18,170 L23,163" fill="none" stroke="#fff" stroke-width="2"/>
+<text x="34" y="172">midterm/figures/track-a/ex1_result.png</text>
+<rect x="276" y="161" width="12" height="12" rx="2" fill="#1a7f37"/>
+</g>
+<rect x="0" y="270" width="300" height="150" fill="#f6f8fa"/>
+<line x1="0" y1="270" x2="300" y2="270" stroke="#d0d7de"/>
+<circle cx="24" cy="296" r="11" fill="#8c959f"/>
+<rect x="44" y="282" width="244" height="28" rx="5" fill="#ffffff" stroke="#0969da" stroke-width="2"/>
+<text x="52" y="301" font-size="12" fill="#1f2328">Add exercise 1 result</text>
+<rect x="12" y="318" width="276" height="44" rx="5" fill="#ffffff" stroke="#d0d7de"/>
+<text x="20" y="336" font-size="12" fill="#8c959f">Description</text>
+<rect x="12" y="372" width="276" height="34" rx="6" fill="#0969da"/>
+<text x="150" y="394" text-anchor="middle" font-size="13" font-weight="600" fill="#ffffff">Commit to main</text>
+<rect x="6" y="276" width="288" height="136" rx="9" fill="none" stroke="#cf222e" stroke-width="3"/>
+<circle cx="6" cy="276" r="11" fill="#cf222e"/><text x="6" y="281" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">2</text>
+<rect x="6" y="128" width="288" height="52" rx="9" fill="none" stroke="#cf222e" stroke-width="3"/>
+<circle cx="294" cy="128" r="11" fill="#cf222e"/><text x="294" y="133" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">1</text>
+<rect x="300" y="88" width="600" height="34" fill="#f6f8fa"/>
+<text x="316" y="110" font-size="13" font-weight="600" fill="#1f2328">midterm/EXERCISES.md</text>
+<g font-family="Consolas, Menlo, monospace" font-size="12">
+<rect x="300" y="140" width="600" height="24" fill="#ffebe9"/>
+<text x="316" y="157" fill="#82071e">- _Your answer here._</text>
+<rect x="300" y="164" width="600" height="24" fill="#dafbe1"/>
+<text x="316" y="181" fill="#116329">+ ![Exercise 1 result](figures/track-a/ex1_result.png)</text>
+<rect x="300" y="188" width="600" height="24" fill="#dafbe1"/>
+<text x="316" y="205" fill="#116329">+ The model loads correctly in the viewer ...</text>
+</g>
+<text x="600" y="270" text-anchor="middle" font-size="13" fill="#57606a">Red = removed, green = added</text>
+</svg>

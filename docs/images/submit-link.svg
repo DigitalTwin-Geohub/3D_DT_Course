@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="285" viewBox="0 0 900 285" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="900" height="285" fill="#ffffff"/>
+<rect x="20" y="10" width="860" height="94" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="36" y="18" width="220" height="28" rx="6" fill="#ffffff" stroke="#d0d7de"/>
+<text x="48" y="37" font-size="12" fill="#1f2328">your-username/3D_DT_Course</text>
+<rect x="36" y="54" width="828" height="36" rx="18" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="54" y="68" width="10" height="9" rx="1" fill="#57606a"/><path d="M56,68 L56,64 A3,3 0 0 1 62,64 L62,68" fill="none" stroke="#57606a" stroke-width="1.6"/>
+<text x="76" y="78" font-size="15" fill="#1f2328">https://github.com/<tspan font-weight="700">your-username</tspan>/3D_DT_Course</text>
+<rect x="68" y="58" width="380" height="28" rx="6" fill="none" stroke="#cf222e" stroke-width="3"/>
+<circle cx="448" cy="58" r="11" fill="#cf222e"/><text x="448" y="63" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">1</text>
+<text x="472" y="78" font-size="13" font-weight="600" fill="#cf222e">← copy this link (your fork, not the course page)</text>
+<rect x="20" y="126" width="420" height="146" rx="10" fill="#fff8c5" stroke="#bf8700"/>
+<circle cx="44" cy="152" r="11" fill="#cf222e"/><text x="44" y="157" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">2</text>
+<text x="64" y="157" font-size="15" font-weight="600" fill="#1f2328">Check it in a private window</text>
+<text x="40" y="186" font-size="13" fill="#1f2328">Chrome / Edge: Ctrl+Shift+N   (Mac: Cmd+Shift+N)</text>
+<text x="40" y="206" font-size="13" fill="#1f2328">Firefox: Ctrl+Shift+P   (Mac: Cmd+Shift+P)</text>
+<text x="40" y="234" font-size="13" fill="#57606a">Paste the link. You should see your answers</text>
+<text x="40" y="250" font-size="13" fill="#57606a">without logging in.</text>
+<rect x="460" y="126" width="420" height="146" rx="10" fill="#dafbe1" stroke="#1f883d"/>
+<circle cx="484" cy="152" r="11" fill="#cf222e"/><text x="484" y="157" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">3</text>
+<text x="504" y="157" font-size="15" font-weight="600" fill="#1f2328">Paste the link in Canvas</text>
+<text x="480" y="186" font-size="13" fill="#1f2328">Hand it in on the assignment page.</text>
+<text x="480" y="214" font-size="13" fill="#57606a">Your lecturer grades what is on GitHub,</text>
+<text x="480" y="232" font-size="13" fill="#57606a">not what is on your computer: push</text>
+<text x="480" y="250" font-size="13" fill="#57606a">your last changes before the deadline.</text>
+</svg>

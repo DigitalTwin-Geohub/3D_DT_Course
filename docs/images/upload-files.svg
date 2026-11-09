@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="900" height="300" fill="#ffffff" stroke="#d0d7de"/>
+<text x="20" y="38" font-size="16" fill="#0969da">3D_DT_Course <tspan fill="#57606a">/</tspan> midterm <tspan fill="#57606a">/</tspan> figures <tspan fill="#57606a">/</tspan> <tspan fill="#1f2328" font-weight="600">track-a</tspan> <tspan fill="#57606a">/</tspan></text>
+<rect x="20" y="64" width="580" height="80" rx="6" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="20" y="64" width="580" height="36" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="36" y="87" font-size="13" fill="#57606a">Name</text>
+<rect x="36" y="112" width="12" height="15" rx="2" fill="none" stroke="#57606a" stroke-width="1.4"/>
+<text x="58" y="125" font-size="13" fill="#1f2328">.gitkeep</text>
+<rect x="760" y="18" width="120" height="32" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="820" y="39" text-anchor="middle" font-size="13" fill="#1f2328">Add file  ▾</text>
+<rect x="753" y="11" width="134" height="46" rx="9" fill="none" stroke="#cf222e" stroke-width="3"/>
+<circle cx="753" cy="11" r="11" fill="#cf222e"/><text x="753" y="16" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">1</text>
+<rect x="644" y="68" width="240" height="88" rx="8" fill="#1f2328" opacity="0.12"/>
+<rect x="640" y="64" width="240" height="88" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+<text x="660" y="94" font-size="14" fill="#1f2328">+  Create new file</text>
+<rect x="648" y="108" width="224" height="36" rx="6" fill="#ddf4ff"/>
+<text x="660" y="131" font-size="14" font-weight="600" fill="#1f2328">↑  Upload files</text>
+<rect x="642" y="103" width="236" height="46" rx="9" fill="none" stroke="#cf222e" stroke-width="3"/>
+<circle cx="642" cy="103" r="11" fill="#cf222e"/><text x="642" y="108" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">2</text>
+<rect x="20" y="176" width="860" height="104" rx="8" fill="#f6f8fa" stroke="#8c959f" stroke-width="1.5" stroke-dasharray="7 5"/>
+<text x="450" y="220" text-anchor="middle" font-size="16" font-weight="600" fill="#1f2328">Drag files here to add them to your repository</text>
+<text x="450" y="248" text-anchor="middle" font-size="14" fill="#57606a">Or <tspan fill="#0969da">choose your files</tspan></text>
+<circle cx="20" cy="176" r="11" fill="#cf222e"/><text x="20" y="181" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">3</text>
+</svg>

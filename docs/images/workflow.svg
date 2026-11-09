@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#57606a"/></marker></defs>
+<rect width="900" height="360" fill="#ffffff"/>
+<rect x="20" y="40" width="240" height="115" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
+<text x="140" y="70" text-anchor="middle" font-size="16" font-weight="600" fill="#1f2328">Course repository</text>
+<text x="140" y="95" text-anchor="middle" font-size="13" fill="#57606a">github.com/DigitalTwin-Geohub/</text>
+<text x="140" y="113" text-anchor="middle" font-size="13" fill="#57606a">3D_DT_Course</text>
+<text x="140" y="140" text-anchor="middle" font-size="12" font-style="italic" fill="#57606a">the template (you cannot change it)</text>
+<rect x="330" y="40" width="240" height="115" rx="10" fill="#dafbe1" stroke="#1f883d" stroke-width="2"/>
+<text x="450" y="70" text-anchor="middle" font-size="16" font-weight="600" fill="#1f2328">Your fork on GitHub</text>
+<text x="450" y="95" text-anchor="middle" font-size="13" fill="#57606a">github.com/your-username/</text>
+<text x="450" y="113" text-anchor="middle" font-size="13" fill="#57606a">3D_DT_Course</text>
+<text x="450" y="140" text-anchor="middle" font-size="12" font-style="italic" fill="#1a7f37">this is what your lecturer sees</text>
+<rect x="640" y="40" width="240" height="115" rx="10" fill="#fff8c5" stroke="#bf8700" stroke-width="2"/>
+<text x="760" y="70" text-anchor="middle" font-size="16" font-weight="600" fill="#1f2328">Canvas</text>
+<text x="760" y="95" text-anchor="middle" font-size="13" fill="#57606a">Hand in the link</text>
+<text x="760" y="113" text-anchor="middle" font-size="13" fill="#57606a">to your fork</text>
+<rect x="330" y="235" width="240" height="105" rx="10" fill="#ddf4ff" stroke="#0969da" stroke-width="2"/>
+<text x="450" y="265" text-anchor="middle" font-size="16" font-weight="600" fill="#1f2328">Your computer (optional)</text>
+<text x="450" y="290" text-anchor="middle" font-size="13" fill="#57606a">a local copy that you edit</text>
+<text x="450" y="308" text-anchor="middle" font-size="13" fill="#57606a">with GitHub Desktop or Git</text>
+<line x1="262" y1="97" x2="326" y2="97" stroke="#57606a" stroke-width="2.5" marker-end="url(#a)"/>
+<text x="294" y="86" text-anchor="middle" font-size="13" font-weight="600" fill="#1f2328">1 Fork</text>
+<line x1="572" y1="97" x2="636" y2="97" stroke="#57606a" stroke-width="2.5" marker-end="url(#a)"/>
+<text x="604" y="86" text-anchor="middle" font-size="13" font-weight="600" fill="#1f2328">5 Submit</text>
+<line x1="400" y1="157" x2="400" y2="231" stroke="#57606a" stroke-width="2.5" marker-end="url(#a)"/>
+<text x="390" y="200" text-anchor="end" font-size="13" font-weight="600" fill="#1f2328">Clone (once)</text>
+<line x1="500" y1="233" x2="500" y2="159" stroke="#57606a" stroke-width="2.5" marker-end="url(#a)"/>
+<text x="510" y="192" font-size="13" font-weight="600" fill="#1f2328">Commit + Push</text>
+<text x="510" y="210" font-size="13" fill="#57606a">(every time you work)</text>
+<text x="20" y="250" font-size="13" font-weight="600" fill="#1a7f37">Route A: browser only</text>
+<text x="20" y="270" font-size="12" fill="#57606a">Edit, upload and commit directly</text>
+<text x="20" y="286" font-size="12" fill="#57606a">in the green box. Nothing to install.</text>
+<text x="20" y="314" font-size="13" font-weight="600" fill="#0969da">Route B: GitHub Desktop</text>
+<text x="20" y="334" font-size="12" fill="#57606a">Work in the blue box, then push.</text>
+</svg>

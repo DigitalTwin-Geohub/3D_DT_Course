@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="900" height="380" fill="#ffffff" stroke="#d0d7de"/>
+<text x="40" y="50" font-size="22" font-weight="600" fill="#1f2328">Create a new fork</text>
+<text x="40" y="76" font-size="13" fill="#57606a">A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes.</text>
+<line x1="40" y1="95" x2="860" y2="95" stroke="#d0d7de"/>
+<text x="40" y="125" font-size="13" font-weight="600" fill="#1f2328">Owner *</text>
+<text x="270" y="125" font-size="13" font-weight="600" fill="#1f2328">Repository name *</text>
+<rect x="40" y="135" width="200" height="34" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+<circle cx="60" cy="152" r="9" fill="#8c959f"/>
+<text x="76" y="157" font-size="14" fill="#1f2328">your-username  ▾</text>
+<text x="252" y="159" font-size="20" fill="#57606a">/</text>
+<rect x="270" y="135" width="260" height="34" rx="6" fill="#ffffff" stroke="#d0d7de"/>
+<text x="282" y="157" font-size="14" fill="#1f2328">3D_DT_Course</text>
+<rect x="34" y="129" width="212" height="46" rx="9" fill="none" stroke="#cf222e" stroke-width="3"/>
+<circle cx="34" cy="129" r="13" fill="#cf222e"/><text x="34" y="134" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">1</text>
+<text x="40" y="196" font-size="12" font-weight="600" fill="#cf222e">Your own account</text>
+<text x="270" y="190" font-size="12" fill="#1a7f37">✓ 3D_DT_Course is available.</text>
+<text x="40" y="232" font-size="13" font-weight="600" fill="#1f2328">Description <tspan font-weight="400" fill="#57606a">(optional)</tspan></text>
+<rect x="40" y="242" width="490" height="34" rx="6" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="40" y="296" width="16" height="16" rx="3" fill="#0969da"/>
+<path d="M43,304 L47,308 L53,300" fill="none" stroke="#fff" stroke-width="2"/>
+<text x="66" y="309" font-size="14" font-weight="600" fill="#1f2328">Copy the main branch only</text>
+<line x1="40" y1="330" x2="860" y2="330" stroke="#d0d7de"/>
+<rect x="720" y="338" width="130" height="34" rx="6" fill="#1f883d"/>
+<text x="785" y="360" text-anchor="middle" font-size="14" font-weight="600" fill="#ffffff">Create fork</text>
+<rect x="713" y="333" width="144" height="44" rx="9" fill="none" stroke="#cf222e" stroke-width="3"/>
+<circle cx="713" cy="333" r="13" fill="#cf222e"/><text x="713" y="338" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">2</text>
+</svg>
